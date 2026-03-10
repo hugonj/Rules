@@ -1,0 +1,33 @@
+# NAME: EMBY
+# AUTHOR: HUGO
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2026-03-08 09:12:34
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 9
+# TOTAL: 10
+payload:
+  - DOMAIN,fworks-emby.webn.cc
+  - DOMAIN,fworks-emby.sylu.net
+  - DOMAIN,emby.rochub.xyz
+  - DOMAIN-SUFFIX,shrekmedia.org
+  - DOMAIN-SUFFIX,cn2gias.uk
+  - DOMAIN-SUFFIX,feiniu.lol
+  - DOMAIN-SUFFIX,ichinosekotomi.com
+  - DOMAIN-SUFFIX,nebula-media.org
+  - DOMAIN-SUFFIX,emby.my
+  - DOMAIN-SUFFIX,101514.xyz
+  - DOMAIN-SUFFIX,startspoint.com
+  - DOMAIN-SUFFIX,okemby.org
+  - DOMAIN-SUFFIX,emby.bangumi.ca
+  - DOMAIN-SUFFIX,istyboe.top
+  - DOMAIN-SUFFIX,lyezi.cc
+  - DOMAIN-SUFFIX,istyboe.top
+  - DOMAIN-SUFFIX,faemby.vip
+  - DOMAIN-SUFFIX,hellohk.me
+  - DOMAIN-SUFFIX,miraiemby.com
+  - DOMAIN-SUFFIX,jiedaibao.gs
+  - DOMAIN-SUFFIX,nice66666.cc
+  - DOMAIN-SUFFIX,klplay.top
+
+  
+  
