@@ -4,33 +4,58 @@
 # UPDATED: 2026-03-10 09:12:34
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 9
-# TOTAL: 10
+# TOTAL: 25
 payload:
-  - DOMAIN,fworks-emby.webn.cc    #FWorks Network Emby
-  - DOMAIN,fworks-emby.sylu.net   #FWorks Network Emby
-  - DOMAIN,emby.rochub.xyz   #ROC-Emby
-  - DOMAIN,hk.wedg.top     #We Emby
-  - DOMAIN,emby.bangumi.ca #Nya media
-  - DOMAIN-SUFFIX,shrekmedia.org    #ShrekPublic
-  - DOMAIN-SUFFIX,cn2gias.uk        #sntp_lite_emby
-  - DOMAIN-SUFFIX,theluyuan.com     #theluyuan
-  - DOMAIN-SUFFIX,feiniu.lol           #emby肥牛
-  - DOMAIN-SUFFIX,ichinosekotomi.com   #ichinosekotomifan 的电视台   一之濑琴美emby😁 
-  - DOMAIN-SUFFIX,nebula-media.org   #Nebula-Media（星云）
-  - DOMAIN-SUFFIX,emby.my         #月饼Emby
-  - DOMAIN-SUFFIX,101514.xyz      #Embydada
-  - DOMAIN-SUFFIX,startspoint.com #起点站Emby
-  - DOMAIN-SUFFIX,okemby.org      #OkEmby
-  - DOMAIN-SUFFIX,istyboe.top     #embyhello
-  - DOMAIN-SUFFIX,yezi.my         #叶子emby 网盘服
-  - DOMAIN-SUFFIX,lyezi.cc        #叶子emby 网盘服
-  - DOMAIN-SUFFIX,faemby.vip      #我身无拘 emby
-  - DOMAIN-SUFFIX,hellohk.me      #HelloHK Emby  公益服（网盘）
-  - DOMAIN-SUFFIX,miraiemby.com   #Mirai Emby
-  - DOMAIN-SUFFIX,jiedaibao.gs  #Mirai Emby
-  - DOMAIN-SUFFIX,kingemby.xyz  #小虾米公益Emby
-  - DOMAIN-SUFFIX,nice66666.cc  #NiceEmby
-  - DOMAIN-SUFFIX,klplay.top  #KL EMBY 天翼公益服
+  #FWorks Network Emby
+  - DOMAIN,fworks-emby.webn.cc
+  #FWorks Network Emby
+  - DOMAIN,fworks-emby.sylu.net
+  #ROC-Emby
+  - DOMAIN,emby.rochub.xyz
+  #We Emby
+  - DOMAIN,hk.wedg.top
+  #Nya media
+  - DOMAIN,emby.bangumi.ca
+  #ShrekPublic
+  - DOMAIN-SUFFIX,shrekmedia.org
+  #sntp_lite_emby
+  - DOMAIN-SUFFIX,cn2gias.uk
+   #theluyuan
+  - DOMAIN-SUFFIX,theluyuan.com
+  #emby肥牛
+  - DOMAIN-SUFFIX,feiniu.lol
+  #ichinosekotomifan 的电视台   一之濑琴美emby😁 
+  - DOMAIN-SUFFIX,ichinosekotomi.com
+  #Nebula-Media（星云）
+  - DOMAIN-SUFFIX,nebula-media.org
+  #月饼Emby
+  - DOMAIN-SUFFIX,emby.my
+  #Embydada
+  - DOMAIN-SUFFIX,101514.xyz
+  #起点站Emby
+  - DOMAIN-SUFFIX,startspoint.com
+  #OkEmby
+  - DOMAIN-SUFFIX,okemby.org
+  #embyhello
+  - DOMAIN-SUFFIX,istyboe.top
+  #叶子emby 网盘服
+  - DOMAIN-SUFFIX,yezi.my
+  #叶子emby 网盘服
+  - DOMAIN-SUFFIX,lyezi.cc
+  #我身无拘 emby
+  - DOMAIN-SUFFIX,faemby.vip
+  #HelloHK Emby  公益服（网盘）
+  - DOMAIN-SUFFIX,hellohk.me
+  #Mirai Emby
+  - DOMAIN-SUFFIX,miraiemby.com
+  #Mirai Emby
+  - DOMAIN-SUFFIX,jiedaibao.gs
+  #小虾米公益Emby
+  - DOMAIN-SUFFIX,kingemby.xyz
+  #NiceEmby
+  - DOMAIN-SUFFIX,nice66666.cc
+  #KL EMBY 天翼公益服
+  - DOMAIN-SUFFIX,klplay.top  
   
   
   

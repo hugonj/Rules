@@ -4,14 +4,23 @@
 # UPDATED: 2026-03-11 09:12:34
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 9
-# TOTAL: 10
+# TOTAL: 8
 payload:
-  - DOMAIN,a.wedg.top      #We Emby
-  - DOMAIN,cc.wedg.top     #We Emby
-  - DOMAIN,cf.wedg.top     #We Emby
-  - DOMAIN,saodu6.cn       #saodu-公益服务器  mdlemby
-  - DOMAIN-SUFFIX,hohai.eu.org   #HOHAI公益
-  - DOMAIN-SUFFIX,emby.yun   #小姨子公益服 并公益服
-  - DOMAIN,ap-cn01.emby.bangumi.ca   #Nya media
-  - DOMAIN,ap-cn02.emby.bangumi.ca   #Nya media
+  #We Emby
+  - DOMAIN,a.wedg.top
+  #We Emby
+  - DOMAIN,cc.wedg.top
+  #We Emby  
+  - DOMAIN,cf.wedg.top
+  #saodu-公益服务器  mdlemby
+  - DOMAIN,saodu6.cn
+  #HOHAI公益
+  - DOMAIN-SUFFIX,hohai.eu.org
+  #小姨子公益服 并公益服
+  - DOMAIN-SUFFIX,emby.yun
+  #Nya media
+  - DOMAIN,ap-cn01.emby.bangumi.ca
+  #Nya media  
+  - DOMAIN,ap-cn02.emby.bangumi.ca
+  
  
