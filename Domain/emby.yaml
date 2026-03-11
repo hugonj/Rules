@@ -6,28 +6,31 @@
 # DOMAIN-SUFFIX: 9
 # TOTAL: 10
 payload:
-  - DOMAIN,fworks-emby.webn.cc
-  - DOMAIN,fworks-emby.sylu.net
-  - DOMAIN,emby.rochub.xyz
-  - DOMAIN-SUFFIX,shrekmedia.org
-  - DOMAIN-SUFFIX,cn2gias.uk
-  - DOMAIN-SUFFIX,feiniu.lol
-  - DOMAIN-SUFFIX,ichinosekotomi.com
-  - DOMAIN-SUFFIX,nebula-media.org
-  - DOMAIN-SUFFIX,emby.my
-  - DOMAIN-SUFFIX,101514.xyz
-  - DOMAIN-SUFFIX,startspoint.com
-  - DOMAIN-SUFFIX,okemby.org
-  - DOMAIN-SUFFIX,emby.bangumi.ca
-  - DOMAIN-SUFFIX,istyboe.top
-  - DOMAIN-SUFFIX,lyezi.cc
-  - DOMAIN-SUFFIX,istyboe.top
-  - DOMAIN-SUFFIX,faemby.vip
-  - DOMAIN-SUFFIX,hellohk.me
-  - DOMAIN-SUFFIX,miraiemby.com
-  - DOMAIN-SUFFIX,jiedaibao.gs
-  - DOMAIN-SUFFIX,nice66666.cc
-  - DOMAIN-SUFFIX,klplay.top
-
+  - DOMAIN,fworks-emby.webn.cc    #FWorks Network Emby
+  - DOMAIN,fworks-emby.sylu.net   #FWorks Network Emby
+  - DOMAIN,emby.rochub.xyz   #ROC-Emby
+  - DOMAIN,hk.wedg.top     #We Emby
+  - DOMAIN,emby.bangumi.ca #Nya media
+  - DOMAIN-SUFFIX,shrekmedia.org    #ShrekPublic
+  - DOMAIN-SUFFIX,cn2gias.uk        #sntp_lite_emby
+  - DOMAIN-SUFFIX,theluyuan.com     #theluyuan
+  - DOMAIN-SUFFIX,feiniu.lol           #emby肥牛
+  - DOMAIN-SUFFIX,ichinosekotomi.com   #ichinosekotomifan 的电视台   一之濑琴美emby😁 
+  - DOMAIN-SUFFIX,nebula-media.org   #Nebula-Media（星云）
+  - DOMAIN-SUFFIX,emby.my         #月饼Emby
+  - DOMAIN-SUFFIX,101514.xyz      #Embydada
+  - DOMAIN-SUFFIX,startspoint.com #起点站Emby
+  - DOMAIN-SUFFIX,okemby.org      #OkEmby
+  - DOMAIN-SUFFIX,istyboe.top     #embyhello
+  - DOMAIN-SUFFIX,yezi.my         #叶子emby 网盘服
+  - DOMAIN-SUFFIX,lyezi.cc        #叶子emby 网盘服
+  - DOMAIN-SUFFIX,faemby.vip      #我身无拘 emby
+  - DOMAIN-SUFFIX,hellohk.me      #HelloHK Emby  公益服（网盘）
+  - DOMAIN-SUFFIX,miraiemby.com   #Mirai Emby
+  - DOMAIN-SUFFIX,jiedaibao.gs  #Mirai Emby
+  - DOMAIN-SUFFIX,kingemby.xyz  #小虾米公益Emby
+  - DOMAIN-SUFFIX,nice66666.cc  #NiceEmby
+  - DOMAIN-SUFFIX,klplay.top  #KL EMBY 天翼公益服
+  
   
   
