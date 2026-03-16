@@ -8,12 +8,11 @@
 payload:
   #We Emby
   - DOMAIN,a.wedg.top
-  #We Emby
   - DOMAIN,cc.wedg.top
-  #We Emby  
   - DOMAIN,cf.wedg.top
   #saodu-公益服务器  mdlemby
   - DOMAIN,saodu6.cn
+  - DOMAIN,5165163.xyz
   #HOHAI公益
   - DOMAIN-SUFFIX,hohai.eu.org
   #小姨子公益服 并公益服
@@ -23,5 +22,5 @@ payload:
   #Nya media  
   - DOMAIN,ap-cn02.emby.bangumi.ca
   #西瓜 Emby  
-  - DOMAIN,yuntv.de
+  - DOMAIN-SUFFIX,yuntv.de
  
