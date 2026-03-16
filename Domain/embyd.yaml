@@ -22,5 +22,6 @@ payload:
   - DOMAIN,ap-cn01.emby.bangumi.ca
   #Nya media  
   - DOMAIN,ap-cn02.emby.bangumi.ca
-  
+  #西瓜 Emby  
+  - DOMAIN,yuntv.de
  
