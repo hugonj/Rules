@@ -56,6 +56,8 @@ payload:
   - DOMAIN-SUFFIX,nice66666.cc
   #KL EMBY 天翼公益服
   - DOMAIN-SUFFIX,klplay.top  
+  #🎥Msky EMBY 
+  - DOMAIN-SUFFIX,3msky.com
   
   
   
