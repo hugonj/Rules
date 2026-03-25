@@ -23,4 +23,6 @@ payload:
   - DOMAIN,ap-cn02.emby.bangumi.ca
   #西瓜 Emby  
   - DOMAIN-SUFFIX,yuntv.de
+  #eoos Emby
+  - DOMAIN,c.eoos.top
  
