@@ -34,13 +34,13 @@ payload:
   - DOMAIN-SUFFIX,101514.xyz
   #起点站Emby
   - DOMAIN-SUFFIX,startspoint.com
+  - DOMAIN-SUFFIX,28.al
   #OkEmby
   - DOMAIN-SUFFIX,okemby.org
   #embyhello
   - DOMAIN-SUFFIX,istyboe.top
   #叶子emby 网盘服
   - DOMAIN-SUFFIX,yezi.my
-  #叶子emby 网盘服
   - DOMAIN-SUFFIX,lyezi.cc
   #我身无拘 emby
   - DOMAIN-SUFFIX,faemby.vip
@@ -58,6 +58,11 @@ payload:
   - DOMAIN-SUFFIX,klplay.top  
   #🎥Msky EMBY 
   - DOMAIN-SUFFIX,3msky.com
+  #eoos Emby
+  - DOMAIN,1.eoos.lol
+  - DOMAIN,a.eoos.top
+  #Gousheng-Media
+  - DOMAIN,gousen.cc.cd
   
   
   
