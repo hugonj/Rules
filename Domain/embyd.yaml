@@ -12,6 +12,7 @@ payload:
   - DOMAIN,cf.wedg.top
   #saodu-公益服务器  mdlemby
   - DOMAIN,saodu6.cn
+  - DOMAIN,saodu6.top
   - DOMAIN,5165163.xyz
   #HOHAI公益
   - DOMAIN-SUFFIX,hohai.eu.org
@@ -19,7 +20,6 @@ payload:
   - DOMAIN-SUFFIX,emby.yun
   #Nya media
   - DOMAIN,ap-cn01.emby.bangumi.ca
-  #Nya media  
   - DOMAIN,ap-cn02.emby.bangumi.ca
   #西瓜 Emby  
   - DOMAIN-SUFFIX,yuntv.de
