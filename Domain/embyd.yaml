@@ -25,4 +25,6 @@ payload:
   - DOMAIN-SUFFIX,yuntv.de
   #eoos Emby
   - DOMAIN,c.eoos.top
+  #月之轩
+  - DOMAIN-SUFFIX,4348663.xyz
  
