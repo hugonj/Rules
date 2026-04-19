@@ -9,7 +9,7 @@ payload:
   #We Emby
   - DOMAIN,a.wedg.top
   - DOMAIN,cc.wedg.top
-  - DOMAIN,cf.wedg.top
+  - DOMAIN,tt.wedg.top
   #saodu-公益服务器  mdlemby
   - DOMAIN,saodu6.cn
   - DOMAIN,saodu6.top
