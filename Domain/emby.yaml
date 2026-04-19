@@ -13,7 +13,10 @@ payload:
   #ROC-Emby
   - DOMAIN,emby.rochub.xyz
   #We Emby
-  - DOMAIN,hk.wedg.top
+  - DOMAIN,cf.wedg.top
+  - DOMAIN,hkt.wedg.top
+  - DOMAIN,us.wedg.top
+  - DOMAIN,us1.wedg.top
   #Nya media
   - DOMAIN,emby.bangumi.ca
   #ShrekPublic
